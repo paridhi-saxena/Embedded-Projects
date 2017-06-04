@@ -1,0 +1,2 @@
+Proximity value : 255 
+Temperature : 23.062500
